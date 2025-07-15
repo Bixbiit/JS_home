@@ -2,6 +2,7 @@
 // Результат присвойте переменной sum
 
 // your code
+
 let sum = 0;
 let count = 1;
 
@@ -10,4 +11,5 @@ while(count <= 20){
     count = count +1
 }
 
+console.log(sum);
 
