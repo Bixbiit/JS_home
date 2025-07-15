@@ -11,5 +11,5 @@ while(count <= 20){
     count = count +1
 }
 
-console.log(sum);
+
 
